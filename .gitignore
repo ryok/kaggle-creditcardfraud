@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.csv
+*.txt
+*.hdf5
+*.png
+*.log
+*.pkl
+*.swp
+venv/
